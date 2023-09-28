@@ -1,0 +1,14 @@
+body{
+  background-color:rgb(207,186,255);
+  text-align:center;
+}
+
+h1{
+  font-family:"Helvetica", sans-serif;
+}
+
+#tanya-footer{
+  background-color:white;
+  padding: 6px;
+  clear: both;
+}
