@@ -17,6 +17,17 @@ div
   font-size: 25px;
 }
 
+image1 {
+   height: 0px;
+   width: 0px;
+}
+
+image2 {
+   height: 0px;
+   width: 0px;
+}
+
+
 #tanya-footer{
   background-color:white;
   padding: 6px;
