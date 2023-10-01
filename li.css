@@ -9,6 +9,14 @@ h1{
   font-family:"Helvetica", sans-serif;
 }
 
+#info-table{width:880px; margin:0 auto;}
+
+#info-tr{width:200px; text-align:center;}
+
+#info-td{width:200px; text-align:center;}
+
+
+
 #tanya-footer{
   background-color:white;
   padding: 6px;
